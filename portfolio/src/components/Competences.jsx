@@ -23,12 +23,12 @@ const Competences = () => {
                       <h3 className='font-bold text-2xl my-6'>Front-end</h3>
                       <ol className='list-disc'>
                         <li className='text-black text-xl'>HTML</li>
-                        <li className='text-black text-xl'>css</li>
+                        <li className='text-black text-xl'>CSS</li>
                         <li className='text-black text-xl'>TypeScript</li>
                         <li className='text-black text-xl'> JavaScript</li>
                         <li className='text-black text-xl'> ReactJs</li>
                         <li className='text-black text-xl'> ReactNative</li>
-                        <li className='text-black text-xl'> tailwindcss</li>
+                        <li className='text-black text-xl'> Tailwindcss</li>
                       </ol>
                   </div>
               </div>
