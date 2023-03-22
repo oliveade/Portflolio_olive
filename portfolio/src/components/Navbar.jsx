@@ -94,7 +94,7 @@ const Navbar = () => {
         <img alt="logo" src={logo} width="75px" />
         </div>
         <div className='pr-10 space-x-6 space-x-reverse flex items-center font-medium text-gray-900 md:block hidden'>
-          <ul className='flex items-center gap-5  text-lg px-6 '>
+          <ul className='flex items-center gap-5  text-lg px-6 cursor-pointer'>
           <li className='hover:text-cyan-600'><Link to="home" smooth={true} duration={500}>Home</Link></li>
           <li className='hover:text-cyan-600'><Link to="about" smooth={true} offset={-200} duration={500}>A propos</Link></li>
           <li className='hover:text-cyan-600'><Link to="cursus" smooth={true} offset={-100} duration={500}>Cursus</Link></li>
