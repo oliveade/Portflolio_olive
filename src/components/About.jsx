@@ -15,7 +15,7 @@ const About = () => {
                  rendre la vie plus facile et apporter des changements significatifs dans le monde. Mon objectif est donc d’acquérir un solide socle de connaissances et de développer des compétences techniques et méthodologiques dans tous les 
                 domaines de l’informatique afin d’exercer le métier de mon rêve autant qu’une une développeuse web comme il faut. Et effectivement obtenir un diplôme reconnu et en adéquation avec mon projet professionnel.</p>
             </div>
-            <div className=' p-20 my-20'>
+            <div className=' p-20 my-20 '>
                 <img className='w-8/12 h-8/12' src={c} class="hidden md:block w-8/12 h-4/12" alt="/" />
             </div>
         </div>

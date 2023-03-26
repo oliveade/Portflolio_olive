@@ -40,7 +40,7 @@ const Cursus = () => {
             <div className="flex flex-col justify-between p-4 leading-normal">
             <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">ETNA, ECOLE DES TECHNOLOGIES NUMÉRIQUES AVANCÉES 2022 à aujourd'hui</h5>
             <ol className='list-none'>
-                <li className="mb-2 font-normal text-gray-900 dark:text-gray-400">Niveau Bac +2, Ingénierie informatique</li>
+                <li className="mb-2 font-normal text-gray-900 dark:text-gray-400">Ingénierie informatique</li>
               </ol>
             </div>
           </a>
