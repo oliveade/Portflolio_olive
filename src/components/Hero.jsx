@@ -17,7 +17,9 @@ function Hero() {
   strings={[
     "<span style='color: #ff9900; font-size: 1.5rem'>I'm a Full Stack Junior Developer</span>",
     "<span style='color: blue; font-size: 1.5rem'>I Love Software Development</span>",
-    "<span style='color: #990099; font-size: 1.5rem'>Je suis étudiante à l'ETNA</span>",
+    "<span style='color: #990099; font-size: 1.5rem'>Je suis étudiante à l'ETNA</span>", 
+
+    "<span style='color: #FF00FF; font-size: 1.5rem'>A la recherche d'une alternance en Développement web'</span>",
   ]}
   typeSpeed={150}
   backSpeed={100}
