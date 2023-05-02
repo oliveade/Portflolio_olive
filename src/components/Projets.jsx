@@ -21,7 +21,8 @@ const Projets = () => {
             <ol className='list-disc'>
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-white-900 dark:text-white">WEBSITE : Développement d'un site E-commerce</h5>
                 <li className="mb-2 font-normal text-white-700 dark:text-white-400">Apprenez à développer une API avec NodeJS, TypeScript et ExpressJS.</li>
-                <li className="mb-2 font-normal text-white-700 dark:text-white-400">Séquelisation Création de schémas de base de données avec MySQL</li>
+                <li className="mb-2 font-normal text-white-700 dark:text-white-400">Création d'un site d'e-commerce ( page : accueil, produits , administrateur ( ajout et suppression de produit), panier). 
+</li>
               </ol>
             </div>
           </a>
@@ -50,9 +51,9 @@ const Projets = () => {
             <img className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src={mImg} alt=""/>
             <div className="flex flex-col justify-between p-4 leading-normal">
             <ol className='list-disc'>
-                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Jeu MASTERMIND: programmation d'un jeu en python</h5>
-                <li className="mb-2 font-normal text-white-700 dark:text-white-400">Création d'un Jeu Master Mind en Python POO et son interface graphique en Tkinter</li>
-                <li className="mb-2 font-normal text-white-700 dark:text-white-400">Technologies utilisées: Python</li>
+                <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Poubelle Automatique: programmation arduino</h5>
+                <li className="mb-2 font-normal text-white-700 dark:text-white-400">Conception et développement d'une poubelle qui s'ouvre automatiquement dès que le capteur détecte un mouvement a moins de 20cm. Programmée en Arduino</li>
+ 
               </ol>
             </div>
           </a>
