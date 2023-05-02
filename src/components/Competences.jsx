@@ -1,6 +1,4 @@
 import React from 'react';
-import { CodeIcon } from '@heroicons/react/outline';
-import {DesktopComputerIcon, CogIcon} from '@heroicons/react/solid'
 import Image from '../assets/develop.jpeg'
 
 const Competences = () => {
@@ -16,10 +14,10 @@ const Competences = () => {
               <h3 className='text-5xl font-bold py-6 text-left'>L’informatique n’est qu’un outil, comme un pinceau ou un crayon. <br />-GRIFFO</h3>
           </div>
 
-          <div className='grid grid-cols-4 relative gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black'>
+          <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 relative gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black'>
               <div className='bg-white rounded-xl shadow-2xl'>
                   <div className='p-8'>
-                      <CodeIcon className='w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]' />
+                      
                       <h3 className='font-bold text-2xl my-6'>Language</h3>
                       <ol className='list-disc'>
                         <li className='text-black text-xl'>HTML</li>
@@ -35,7 +33,7 @@ const Competences = () => {
               </div>
               <div className='bg-white rounded-xl shadow-2xl'>
                   <div className='p-8'>
-                      <CodeIcon className='w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]' />
+                      
                       <h3 className='font-bold text-2xl my-6'>Frameworks</h3>
                       <ol className='list-disc'>
                         <li className='text-black text-xl'>Next</li>
@@ -48,7 +46,7 @@ const Competences = () => {
               </div>
               <div className='bg-white rounded-xl shadow-2xl'>
                   <div className='p-8'>
-                      <CogIcon className='w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]' />
+                     
                       <h3 className='font-bold text-2xl my-6'>SGBDR</h3>
                       <ol className='list-disc'>
                         <li className='text-black text-xl'>SQLite</li>
@@ -59,7 +57,7 @@ const Competences = () => {
               </div>
               <div className='bg-white rounded-xl shadow-2xl'>
                   <div className='p-8'>
-                      <DesktopComputerIcon className='w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]' />
+                     
                       <h3 className='font-bold text-2xl my-6'>Systèmes d'exploitation et Logiciels</h3>
                       <ol className='list-disc'>
                         <li className='text-black text-xl'>Mac OS, Windows</li>
