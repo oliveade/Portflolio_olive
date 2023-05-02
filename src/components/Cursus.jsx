@@ -1,6 +1,6 @@
 import React from 'react';
 import pImg from '../assets/eigsi.jpeg';
-import wImg from '../assets/dev.avif';
+import wImg from '../assets/Fond1.jpeg';
 import cImg from '../assets/cImg.jpeg'
 const Cursus = () => {
   return (
